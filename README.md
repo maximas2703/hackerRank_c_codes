@@ -1,4 +1,4 @@
-# HackerRank C Programming Solutions 🚀
+# HackerRank C Programming Solutions 
 
 This repository contains my solutions to the C programming challenges on [HackerRank](https://www.hackerrank.com/domains/c). I am using this to strengthen my understanding of C syntax, algorithms, and memory management.
 
